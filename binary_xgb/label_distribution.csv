@@ -1,0 +1,15 @@
+Label,Train Count,Val Count,Total
+BENIGN_15percent,8242414,2060604,10303018
+Botnet Ares_merged,189401,47351,236752
+DDoS-LOIC-UDP_merged,2222,556,2778
+DoS GoldenEye_merged,33724,8431,42155
+DoS Hulk_merged,1697075,424269,2121344
+DoS Slowhttptest_merged,8172,2044,10216
+DoS Slowloris_merged,17745,4437,22182
+FTP-Patator_merged,6374,1594,7968
+Infiltration - Communication Victim Attacker_merged,235,59,294
+Infiltration - Dropbox Download_merged,90,23,113
+SSH-Patator_merged,4780,1196,5976
+Web Attack - Brute Force_merged,2398,600,2998
+Web Attack - SQL Injection_merged,28,8,36
+Web Attack - XSS_merged,1170,293,1463
