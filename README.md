@@ -21,7 +21,8 @@ We also provide:
 (https://www.youtube.com/watch?v=WI7x1QNe3xQ)
 
 ## Poster
-![作品海報](https://github.com/user-attachments/assets/5a83324d-4d53-4241-ac5d-04755fa76585)
+![作品海報](https://github.com/user-attachments/assets/d452b2bf-6337-4034-8966-3ac03308ea1a)
+
 
 ## Abstract
 本專案提出一套基於網頁介面的惡意流量二分類偵測系統。核心模型採用 XGBoost 二分類器，訓練資料來自提升版資料集 Improved CICIDS2017 & CSECICIDS2018。使用者可透過瀏覽器上傳已提取的網路封包特徵資料，系統將即時進行預測並提供結果下載。本系統以 Flask 架構實作，具備操作簡便、回應快速與部署彈性等特點，可應用於網路安全監控與入侵偵測等場域。
